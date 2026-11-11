@@ -1,11 +1,11 @@
 <!-- ===================== HEADER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=John%20Rey%20Altamarino&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DevOps%20Engineer%20%7C%20Managing%20Cloud%20Infrastructure&descAlignY=58&descSize=16" alt="header" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,45:302b63,100:36BCF7&height=260&section=header&text=John%20Rey%20Altamarino&fontSize=50&fontColor=ffffff&fontAlign=50&fontAlignY=36&animation=twinkling&desc=DevOps%20Engineer%20%20%E2%9C%A6%20%20Cloud%20Infrastructure%20%20%E2%9C%A6%20%20Live%20Streaming&descSize=18&descAlign=50&descAlignY=57" alt="header" />
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=640&lines=Provisioning+AWS+EC2+%2B+RDS+from+dev+to+prod;Building+CI%2FCD+pipelines+with+Jenkins;Hardening+Linux+servers+for+production;Side+quest%3A+live+streaming+infra+%F0%9F%8E%A5" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=640&lines=Provisioning+AWS+EC2+%2B+RDS+from+dev+to+prod;Building+CI%2FCD+pipelines+with+Jenkins;Hardening+Linux+servers+for+production;Side+quest%3A+live+streaming+infra+%F0%9F%8E%A5" alt="Typing SVG" />
   </a>
 </p>
 
@@ -245,5 +245,5 @@ background: [cybersecurity threat analysis, frontend web dev]
 
 <!-- ===================== FOOTER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=110&section=footer" alt="footer" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,55:302b63,100:0f0c29&height=150&section=footer&text=Thanks%20for%20stopping%20by%20%E2%9C%A6&fontSize=22&fontColor=ffffff&fontAlignY=68&animation=twinkling" alt="footer" />
 </p>
