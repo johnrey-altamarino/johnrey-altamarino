@@ -153,35 +153,54 @@ background: [cybersecurity threat analysis, frontend web dev]
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 What I Build
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>📺 <a href="https://github.com/johnrey-altamarino/multistream-monitoring">multistream-monitoring</a></h4>
-      <p>Health monitoring for multiple live video feeds.</p>
-      <img src="https://img.shields.io/badge/-Monitoring-2c5364?style=flat-square" />
-      <img src="https://img.shields.io/badge/-Streaming-203a43?style=flat-square" />
+      <h4>🔁 CI/CD Pipelines</h4>
+      <p>Jenkins pipelines that build, test and deploy Laravel/PHP apps to AWS EC2, with zero-touch promotion from dev to prod.</p>
+      <img src="https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" />
+      <img src="https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+      <img src="https://img.shields.io/badge/-AWS%20EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white" />
     </td>
     <td width="50%" valign="top">
-      <h4>🟢 <a href="https://github.com/johnrey-altamarino/multistream-monitoring-vue">multistream-monitoring-vue</a></h4>
-      <p>Vue.js dashboard for the multistream monitor.</p>
-      <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/-Frontend-203a43?style=flat-square" />
+      <h4>☁️ AWS Infrastructure</h4>
+      <p>EC2 + RDS environments with VPC segmentation, least-privilege IAM and CloudWatch alarms, fronted by Cloudflare WAF and SSL.</p>
+      <img src="https://img.shields.io/badge/-EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white" />
+      <img src="https://img.shields.io/badge/-RDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>🔐 <a href="https://github.com/johnrey-altamarino/DRMProj">DRMProj</a></h4>
-      <p>Content protection experiments for streamed media.</p>
-      <img src="https://img.shields.io/badge/-DRM-6A1B9A?style=flat-square" />
-      <img src="https://img.shields.io/badge/-Security-37474F?style=flat-square" />
+      <h4>📊 Observability Stack</h4>
+      <p>Prometheus exporters + Grafana dashboards for server health, uptime and live stream metrics, with alerting before users notice.</p>
+      <img src="https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
     </td>
     <td width="50%" valign="top">
-      <h4>📊 <a href="https://github.com/johnrey-altamarino/AraMonitoring">AraMonitoring</a></h4>
-      <p>Platform monitoring tooling (contributor fork).</p>
-      <img src="https://img.shields.io/badge/-Observability-E6522C?style=flat-square" />
-      <img src="https://img.shields.io/badge/-Ops-2c5364?style=flat-square" />
+      <h4>🧪 Serverless Laravel + Vue</h4>
+      <p>Hands-on practice running a Laravel API and Vue frontend on AWS using ECS, Lambda, API Gateway and S3.</p>
+      <img src="https://img.shields.io/badge/-Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white" />
+      <img src="https://img.shields.io/badge/-ECS-FF9900?style=flat-square&logo=amazonecs&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🎥 WebRTC Streaming Stack</h4>
+      <p>MediaMTX with WHIP ingest / WHEP playback, TURN via coturn for NAT traversal, and token-based stream auth.</p>
+      <img src="https://img.shields.io/badge/-MediaMTX-1E88E5?style=flat-square" />
+      <img src="https://img.shields.io/badge/-WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white" />
+      <img src="https://img.shields.io/badge/-coturn-5C2D91?style=flat-square" />
+    </td>
+    <td width="50%" valign="top">
+      <h4>📡 Self-Hosted Media Servers</h4>
+      <p>Wowza Streaming Engine and Ant Media Server deployments with OBS ingest, HLS/LL-HLS delivery and multi-CDN failover.</p>
+      <img src="https://img.shields.io/badge/-Wowza-F7941D?style=flat-square" />
+      <img src="https://img.shields.io/badge/-Ant%20Media-E53935?style=flat-square" />
+      <img src="https://img.shields.io/badge/-HLS-000000?style=flat-square" />
     </td>
   </tr>
 </table>
